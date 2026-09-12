@@ -1,5 +1,3 @@
-// Code your design here
-// Code your design here
 `timescale 1ns/1ps
 
 module cpu_core(
